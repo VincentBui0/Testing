@@ -4,3 +4,7 @@ A project I created in my spare time where a user is able to plan tasks for thei
 ## Subheader
 
 First time using GitHub and currently practicing.
+
+## Local Development
+
+1. Open index.html in your local browser.
